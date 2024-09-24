@@ -1,5 +1,6 @@
 body {
     padding: 100px;
+    background-color: #001F3F;
 }
 
 .card {
@@ -8,6 +9,7 @@ body {
     border-radius: 50px;
     border-top: 100%;
     margin: 100px;
+    background-color: #FFF0D1;
 }
 
 .text {
